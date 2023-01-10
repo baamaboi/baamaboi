@@ -18,8 +18,8 @@ __Check out my GitHub repository:__
 
 <div>
   <p>
-    <a href="https://github.com/baamaboi/nith-results.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=baamaboi&repo=nith-results" alt="GitHub Stats" />
+    <a href="https://github.com/baamaboi/nith-placements.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=baamaboi&repo=nith-placements" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/baamaboi/Electrothon.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=baamaboi&repo=Electrothon" alt="GitHub Stats" />
