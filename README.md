@@ -14,39 +14,7 @@ I am a senior year student at Electrical Engineering Department, NIT Hamirpur. P
 - Outside tech, 📖 I love to play games (FPS and RPG), 🎵 listen to music, and 🍤  food.
 - 📫 Reach out to me at: <a href="mailto:samarjeetkashyap@outlook.com">samarjeetkashyap@outlook.com</a>
 
-__Check out my GitHub repository:__
 
-<div>
-  <p>
-    <a href="https://github.com/baamaboi/nith-placements.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=baamaboi&repo=nith-placements" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/baamaboi/Electrothon.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=baamaboi&repo=Electrothon" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
-
-
-<h2>My github Stats</h2>
-<center>
-<div>
-<!--   <p>
-    <b><em>Now listening to:</em></b> <br/>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=baamaboi&cover_image=true&theme=novatorem" alt="Now Listenting to" />
-  </p> -->
-  
-  <p>
-  <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=baamaboi" alt="GitHub Stats" />
-    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baamaboi&layout=compact)
-  
-</div>
-
-
-
-</center>
 <!--
 ![My github status](https://github-readme-stats.vercel.app/api?username=baamaboi&show_icons=true&include_all_commits=true)-->
 
